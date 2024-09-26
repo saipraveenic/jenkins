@@ -32,7 +32,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>${app.runtime}</muleVersion>
+						<muleVersion>4.7.3:3e</muleVersion>
 						<username>sai-ic3</username>
 						<password>jUr>8@@5ki#9)m%</password>
 						<applicationName>${project.artifactId}</applicationName>
